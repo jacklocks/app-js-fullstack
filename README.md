@@ -1,0 +1,2 @@
+- npm init (pusi entrée plusieurs fois) ou npm init -y
+- npm i express dotenv mongoose nodemon
